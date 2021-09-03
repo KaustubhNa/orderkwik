@@ -155,6 +155,22 @@ export const Contact = (props) => {
               OrderKwik
             </a>
           </p>
+          <p>
+            {' '}
+            <a href='http://www.orderkwik.com/privacy-policy' target='_blank' rel='noopener noreferrer'>
+              Privacy Policy 
+            </a>
+          
+            |  {' '}
+            <a href='http://www.orderkwik.com/terms-and-conditions' target='_blank' rel='noopener noreferrer'>
+              Terms and Conditions 
+            </a>
+            
+            | {' '}
+            <a href='http://www.orderkwik.com/refund-policy' target='_blank' rel='noopener noreferrer'>
+              Refund Policy
+            </a>
+          </p>
         </div>
       </div>
     </div>
